@@ -5,4 +5,4 @@
 
 🌸 I'm a sucker for visually pleasing websites (especially with small interactive elements)
 
-🌱 I like to read and take care of my plants & read in my spare time
+🌱 I like to read and take care of my plants
