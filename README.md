@@ -1,5 +1,5 @@
 # Hello! I'm Lisanne ✨
-#### A Junior Software Engineer student at Sogeti with a growing passion for UI/UX Design
+#### A Junior Software Engineer at Sogeti with a growing passion for UI/UX Design
 
 👩🏻‍💻 Junior Java Developer @Sogeti
 
