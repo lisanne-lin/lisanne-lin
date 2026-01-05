@@ -1,8 +1,8 @@
 # Hello! I'm Lisanne ✨
-#### A Software Engineer student at the University Amsterdam of Applied Sciences, with a growing passion for UI/UX Design
+#### A Junior Software Engineer student at Sogeti with a growing passion for UI/UX Design
 
-👩🏻‍💻 Java Developer Intern at Sogeti
+👩🏻‍💻 Junior Java Developer @Sogeti
 
 🌸 I'm a sucker for visually pleasing websites (especially with small interactive elements)
 
-🌱 I like to read and take care of my plants
+🌱 I like to read and sip on tea
